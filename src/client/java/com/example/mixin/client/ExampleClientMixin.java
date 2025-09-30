@@ -13,3 +13,4 @@ public class ExampleClientMixin {
 		// This code is injected into the start of MinecraftClient.run()V
 	}
 }
+./gradlew runClient
